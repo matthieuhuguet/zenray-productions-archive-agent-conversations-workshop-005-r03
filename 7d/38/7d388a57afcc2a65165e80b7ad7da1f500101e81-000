@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7e14-967d-74e2-be62-132fbc5f4da7",
+  "sessionId": "019e7e14-967d-74e2-be62-132fbc5f4da7",
+  "provider": "codex",
+  "title": "Audit en lecture seule dans /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayProgress. Objectif: comprendre les besoins stocka",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-48-59-019e7e14-967d-74e2-be62-132fbc5f4da7.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-48-59-019e7e14-967d-74e2-be62-132fbc5f4da7.jsonl",
+      "relativePath": "conversations/codex/1b9d2fec6edaeeee/1bff89d9b1befe4f.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T12:54:12.945Z",
+  "stagedAt": "2026-10-04T09:23:36.030Z"
+}

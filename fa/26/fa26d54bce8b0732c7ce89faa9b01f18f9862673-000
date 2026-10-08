@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e51f8-ad64-7060-a6b1-2d506a61bcc5",
+  "sessionId": "019e51f8-ad64-7060-a6b1-2d506a61bcc5",
+  "provider": "codex",
+  "title": "Claude n'arrive pas à faire ça prends le relai tu as cartes blanches mais trouve la solution contrainte : tu as une heure max pour arriver a",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/23/rollout-2026-05-23T01-15-12-019e51f8-ad64-7060-a6b1-2d506a61bcc5.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/23/rollout-2026-05-23T01-15-12-019e51f8-ad64-7060-a6b1-2d506a61bcc5.jsonl",
+      "relativePath": "conversations/codex/176d982e9e5245b5/940ff6617a95a5aa.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-23T10:45:40.663Z",
+  "stagedAt": "2026-10-04T09:34:06.312Z"
+}
